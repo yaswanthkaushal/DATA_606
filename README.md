@@ -20,4 +20,8 @@ I have cleaned the Unlabled Amazon Customer Reviews dataset and shown the EDA ab
 
 Code 2 - https://github.com/yaswanthkaushal/DATA_606/blob/main/2.%20DATA_606_Capstone_Project_EDA_%26_Model_Training_%26_Testing.ipynb
 
-I have cleaned and showed EDA for the Labeled Amazon Reviews dataset and Traiined Machine learning models and Predicted the reviews from Unlabled Amazon Customer Reviews dataset.
+I have cleaned and showed EDA for the Labeled Amazon Reviews dataset and Trained Machine learning models and Predicted the reviews from Unlabled Amazon Customer Reviews dataset.
+
+Code 3 - https://github.com/yaswanthkaushal/DATA_606/blob/main/3.%20DATA_606_Capstone_Project_Results.ipynb
+
+The prediction results on Unlabled Amazon Customer Reviews dataset by my trained models have been shown.
