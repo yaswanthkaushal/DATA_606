@@ -26,7 +26,7 @@ Code 2 - https://github.com/yaswanthkaushal/DATA_606/blob/main/2.%20DATA_606_Cap
 
 I have cleaned and showed EDA for the Labeled Amazon Reviews dataset and Trained Machine learning models and Predicted the reviews from Unlabled Amazon Customer Reviews dataset.
 
-# Making the Predcition
+# Making the Prediction
 
 Code 3 - https://github.com/yaswanthkaushal/DATA_606/blob/main/3.%20DATA_606_Capstone_Project_Results.ipynb
 
