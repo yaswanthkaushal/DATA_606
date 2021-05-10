@@ -14,13 +14,19 @@ The dataset has 21000 records with reviews with labels for biased and unbiased r
 
 https://www.kaggle.com/lievgarcia/amazon-reviews/download
 
+# EDA on the Dataset
+
 Code 1 - https://github.com/yaswanthkaushal/DATA_606/blob/main/1.%20DATA_606_Capstone_Project_TestingDataset_EDA.ipynb
 
 I have cleaned the Unlabled Amazon Customer Reviews dataset and shown the EDA about the dataset.
 
+# Training the Model and Testing
+
 Code 2 - https://github.com/yaswanthkaushal/DATA_606/blob/main/2.%20DATA_606_Capstone_Project_EDA_%26_Model_Training_%26_Testing.ipynb
 
 I have cleaned and showed EDA for the Labeled Amazon Reviews dataset and Trained Machine learning models and Predicted the reviews from Unlabled Amazon Customer Reviews dataset.
+
+# Making the Predcition
 
 Code 3 - https://github.com/yaswanthkaushal/DATA_606/blob/main/3.%20DATA_606_Capstone_Project_Results.ipynb
 
