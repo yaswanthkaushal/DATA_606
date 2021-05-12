@@ -1,5 +1,5 @@
-# DATA_606
-Capstone Project
+# UMBC - DATA_606
+Data Science Capstone Project
 
 # Fake Amazon Review Detection
 My project is to use natural language processing and machine learning techniques to create a model that would detect if a given review is a fake or real one.
