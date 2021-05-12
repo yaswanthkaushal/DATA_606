@@ -1,4 +1,4 @@
-# UMBC - DATA_606
+# UMBC - DATA 606
 Data Science Capstone Project
 
 # Fake Amazon Review Detection
